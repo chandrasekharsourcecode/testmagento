@@ -1,0 +1,958 @@
+
+@media screen and (max-width : 1900px) {
+.arc_product_div .item {
+	width: 33.3333%;
+}
+.todaysdealsactive_product {
+	padding: 5px 0px 0;
+}
+.singleproducts .freestandershopping p{
+	padding:18px 0 20px 50px;
+}
+}
+
+@media screen and (min-width : 1600px) {
+.quickpopularaid_inn {
+	min-height: 535px;
+}
+}
+
+@media screen and (max-width : 1619px) {
+.freestandershopping p{
+	 padding:16px 0 15px 50px;
+	 font-size:14px;
+}
+.productfeature, .featurebrand_logo{
+	width:385px;
+}
+.productdescription, .frequently_bought{
+	margin-right:430px;
+}
+.socialshare li a{
+	font-size:13px;
+}
+.colfeatured{
+	width:25%;
+}
+.colresourceleft{
+	width:68%;
+}
+.colresourceright{
+	width:30%;
+}
+
+}
+
+@media screen and (max-width: 1599px) {
+.popular6_hloder ul {
+	margin: 10px 0 0;
+}
+.mCustomScrollbar.content {
+	height: 590px;
+}
+.loyalltysocialcsvape_inn {
+	min-height: 700px;
+}
+.top_cart_login .btn {
+	padding: 6px;
+	font-size: 15px;
+}
+.todaysdealsactive_product {
+	padding: 15px 0 0;
+}
+.todaysdealsactive_text {
+	font-size: 14px;
+}
+.todaysdealsactive_title {
+	padding-bottom: 5px;
+}
+.todaysdealsactive_button {
+	padding-top: 15px;
+}
+.todaysdealsactive_product {
+	padding: 10px 0 0;
+}
+.bestkeptsecrets_bottom {
+	padding-right: 100px;
+}
+.bestkeptsecrets_bottom.baby_juice {
+	padding-right: 80px;
+}
+.bestkeptsecrets_3part_inn {
+	background-size: 80%;
+	background-position: right bottom;
+}
+.todaysdealsactive_button a {
+	padding: 5px 8px;
+}
+.shopscvapelyfestyles_bottom.gift_ideas p {
+	padding-right: 170px;
+}
+.flavor_categories_title {
+	font-size: 20px;
+}
+.flavor_categories ul {
+	display: block;
+}
+.flavor_categories ul li {
+	display: block;
+	float: left;
+	width: 12.5%;
+	padding-bottom: 15px;
+}
+.home_top3owl_carousel .top3owl-carousel .owl-stage .owl-item.active + .owl-item.active + .owl-item.active {
+	border-right: none;
+}
+.brand_title {
+	font-size: 12px;
+}
+.ecig4part_inn {
+	padding: 15px
+}
+.save_vaping, .cs_poll {
+	background-size: auto;
+}
+.topdeals_addcart a {
+	padding: 2px 10px;
+}
+.bottompart .topdeals_addcart a {
+	padding: 2px 30px;
+}
+.arc_product_div .item {
+	width: 50%;
+}
+.similar_flavor_div h2.page-title {
+	font-size: 16px;
+}
+/*.frequently_bought .item{
+	width:33.333%;
+}
+.frequently_bought .item:nth-child(3) .flavorsitem_holder::after{
+	display:none;
+}
+.frequently_bought .item.item3product{
+	width:100%;
+	text-align:center;
+}
+.frequently_bought .item.item3product .flavorsitem_holder{
+	top:0;
+}*/
+
+.featurebrand_logo h2.page-heading-title {
+	font-size: 16px;
+}
+.featurebrand_logo h2.page-heading-title span {
+	font-size: 20px;
+}
+.freestandershopping p{
+	 padding:18px 0 16px 45px;
+}
+
+
+}
+
+@media screen and (max-width: 1439px) {
+.productdescription, .productfeature {
+	width: 100%;
+	float: none;
+	padding: 0 0px 10px;
+}
+
+.productdescription{
+	width:50%;
+	padding-right:15px;
+	float:left;
+	margin:0;
+}
+.productfeature{
+	width:50%;
+	padding-left:15px;
+	float:right;
+	position:relative;
+}
+.starting_form{
+	position:relative;
+	left:0;
+}
+.featurebrand_logo{
+	position:relative;
+	width:100%;
+	top:0;
+	left:0;
+}
+.featurebrand_logo h2{
+	margin-bottom:0;
+}
+.featured_brand{
+	border:1px solid #ddd;
+	padding:15px;
+	border-radius: 0 0 10px 10px;
+}
+.featurebrand_logo img{
+	max-width:100%;
+	object-fit:none;
+	-moz-object-fit:none;
+	-ms-object-fit:none;
+	-o-object-fit:none;
+	-webkit-object-fit:none;
+}
+.frequently_bought{
+	margin:0;
+}
+.smalldesktop{
+	display:block;
+}
+.largdesktop{
+	display:none;
+}
+.colfeatured{
+	width:33.3333%;
+}
+
+}
+
+@media screen and (max-width: 1349px) {
+.todaysdealsactive_button a {
+	margin: 0 2px;
+	padding: 5px 10px;
+}
+.todaysdealsactive_price ul li, .todaysdealsactive_text, .topdeals_title {
+	font-size: 12px;
+}
+.topdeals_title span {
+	font-size: 15px;
+}
+.topdeals_holder_inn {
+	padding: 5px 2px 0;
+}
+.todaysdealsactive_title h3, .rating_star {
+	float: none;
+	text-align: center;
+}
+.todaysdealsactive_button .pull-left, .todaysdealsactive_button .pull-right {
+	float: none !important;
+	text-align: center;
+}
+.ecig4part_holder {
+	width: 50%;
+	margin-bottom: 15px;
+}
+.ecig4part2_holder::after {
+	display: none;
+}
+.ecig4part2_holder::before {
+	width: 14px;
+	right: -2px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single_right.png) repeat-y;
+}
+.ecig4part2_holder ~ .ecig4part_holder:after {
+	width: 14px;
+	left: -2px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+}
+.ecig4part2_holder ~ .ecig4part_holder ~ .ecig4part_holder:after {
+	display: none;
+}
+.ecigaccessory_div .ecig4part_holder {
+	width: 50%;
+}
+.ecigaccessory_div .ecig4part_holder.ecig4part2_holder ~ .ecig4part_holder {
+	width: 100%;
+}
+.leftpartarc {
+	float: left;
+	width: 205px;
+}
+.arcleft_div, .arcright_div {
+	float: none;
+	margin-bottom: 15px;
+	width: 100%;
+}
+.arc_product_div {
+	margin: 0 0 0 225px;
+}
+.productdescription, .productfeature{
+	width:100%;
+	float:none;
+	padding: 0 0 15px;
+}
+.starting_form{
+	position:absolute;
+	left:auto;
+}
+body.hiddenscroll{
+	padding-right:0;
+}
+}
+
+@media screen and (max-width: 1199px) {
+.top_social_icon {
+	margin: 0;
+}
+.header_top {
+	font-size: 16px;
+}
+.top_categories_search {
+	float: right;
+}
+.quickpopularaid_outer {
+	margin: 0;
+}
+.quickpopularaid_hloder.quickpopularaidleft_hloder {
+	width: 100%;
+	float: none;
+	margin-bottom: 30px;
+}
+.quickpopularaid_hloder2 {
+	width: 100%;
+}
+.quickpopularaid_hloder.quickpopularaidmiddle_hloder::before, .quickpopularaid_hloder2::before {
+	display: none;
+}
+.quickpopularaid_hloder.quickpopularaidleft_hloder .quickpopularaid_inn::before, .quickpopularaid_hloder.quickpopularaidright_hloder .quickpopularaid_inn::before {
+	width: 14px;
+	right: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single_right.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+	left: auto;
+}
+.quickpopularaid_hloder2::after {
+	width: 14px;
+	left: -2px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+}
+.quickpopularaid_hloder.quickpopularaidleft_hloder .quickpopularaid_inn:hover::before, .quickpopularaid_hloder.quickpopularaidright_hloder .quickpopularaid_inn:hover::before {
+	border: none;
+}
+.newarrivalsactive_carousel .owl-item.active + .owl-item.active .item .item_carousel_holder::before {
+	display: none;
+}
+.shopscvapelyfestyles_bottom p, .shopscvapelyfestyles_bottom.gift_ideas p {
+	padding: 0 0 30px;
+}
+.bestkeptsecrets_bottom, .bestkeptsecrets_bottom.baby_juice {
+	padding: 0 0 60px;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapeleft_hloder {
+	width: 100%;
+	float: none;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapeleft_hloder .loyalltysocialcsvape_inn, .quickpopularaid_hloder.quickpopularaidleft_hloder .quickpopularaid_inn {
+	min-height: 50px;
+	margin-bottom: 30px;
+}
+.loyalltysocialcsvape_outer {
+	margin: 0;
+}
+.loyalltysocialcsvape {
+	padding: 0 15px;
+}
+.loyalltysocialcsvape_hloder {
+	width: 50%;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapemiddle_hloder::before {
+	width: 14px;
+	left: -2px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvaperight_hloder .loyalltysocialcsvape_inn::after {
+	width: 14px;
+	right: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single_right.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+	left: auto;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapeleft_hloder .loyalltysocialcsvape_inn:before {
+	width: 14px;
+	left: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapeleft_hloder .loyalltysocialcsvape_inn:hover:before, .loyalltysocialcsvape_hloder.loyalltysocialcsvaperight_hloder .loyalltysocialcsvape_inn:hover:before {
+	border: none;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapeleft_hloder .loyalltysocialcsvape_inn::before, .loyalltysocialcsvape_hloder.loyalltysocialcsvaperight_hloder .loyalltysocialcsvape_inn::before, .loyalltysocialcsvape_hloder.loyalltysocialcsvapemiddle_hloder .loyalltysocialcsvape_inn::after {
+	display: none;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapeleft_hloder .loyalltysocialcsvape_inn:after {
+	width: 14px;
+	right: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single_right.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+	left: auto;
+}
+.loyalltysocialcsvape_inn, .quickpopularaid_inn {
+	padding-bottom: 15px;
+}
+.specialthanks {
+	margin: 0;
+	padding: 0 15px;
+}
+.shopscvapelyfestyles {
+	padding: 15px 15px 30px;
+}
+.flavor_categories_title {
+	font-size: 16px;
+}
+.filter li {
+	width: 20%;
+}
+.flavorsitem_title {
+	font-size: 16px;
+}
+.flavorsitem_title span {
+	font-size: 12px;
+}
+.arc_product_div .item {
+	padding: 10px 5px;
+}
+.arc_product_div .item {
+	width: 50%;
+}
+.productslider, .productdetaild {
+}
+.product_slider {
+	padding: 35px 0 0;
+}
+.collapsetab .nav-tabs > li > a {
+	font-size: 16px;
+}
+.bestsellerpart, .ratingpart {
+	width: auto;
+	display: inline-block;
+	margin-right: 15px;
+	float: none;
+}
+.flavor_categories.similarflavor ul {
+	margin: 0 -15px;
+}
+.flavor_categories.similarflavor ul li {
+	width: 25%;
+	float: left;
+	padding: 15px;
+}
+.similar_flavor_div h2.page-title {
+	font-size: 20px;
+}
+.frequently_bought .item {
+	width: 33.333%;
+}
+.frequently_bought .item:nth-child(3) .flavorsitem_holder::after {
+	display: none;
+}
+.frequently_bought .item.item3product {
+	width: 100%;
+	text-align: center;
+}
+.frequently_bought .item.item3product .flavorsitem_holder {
+	top: 0;
+}
+.starting_form {
+	position: relative;
+	top: 0;
+}
+.containermasonry .col-md-6{
+	width:100%;
+}
+.collapsetab ul.containermasonry li{
+	margin:0;
+}
+}
+@media screen and (max-width: 1099px) {
+	.productslider, .productdetaild {
+	width: 100%;
+	padding-bottom: 15px;
+	padding-left: 0;
+}
+.productfeature {
+	width: 50%;
+	float: left;
+	padding: 0 0 0 15px;
+}
+.productdescription {
+	width: 50%;
+	float: left;
+	padding: 0 15px 0 0;
+}
+.productslider {
+	height: 400px;
+	overflow: hidden;
+	position: relative;
+}
+}
+
+@media screen and (max-width: 992px) {
+.header_top_left {
+	float: none;
+	padding-left: 0;
+	text-align: center;
+	width: 100%;
+	border-bottom: 1px solid #333f4e;
+}
+.header_top_right {
+	margin: 0;
+}
+.top_social_icon {
+	float: left;
+}
+.header_bottom_left {
+	width: 200px;
+}
+.header_bottom_left img {
+	max-width: 96%;
+}
+.search_cart_login {
+	padding: 0;
+}
+.header_bottom_right {
+	margin-left: 200px;
+}
+.top_categories_search {
+	padding: 0;
+	width: 180px;
+	position: absolute;
+	top: 0;
+	right: 10px;
+	left: auto;
+}
+.top_search {
+	width: 100%;
+	padding: 10px 190px 0 0;
+	float: left;
+}
+.search_cart_login {
+	position: relative;
+}
+.topdeals_holder {
+	width: 50%;
+}
+#popularaid .quickpopularaid_hloder.quickpopularaidmiddle_hloder {
+	width: 100%;
+	margin-bottom: 30px
+}
+#popularaid .quickpopularaid_hloder.quickpopularaidright_hloder {
+	width: 100%;
+}
+#popularaid .quickpopularaid_hloder.quickpopularaidmiddle_hloder .quickpopularaid_inn:after, #popularaid .quickpopularaid_hloder.quickpopularaidright_hloder .quickpopularaid_inn:after {
+	width: 14px;
+	left: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+}
+#popularaid .quickpopularaid_hloder.quickpopularaidmiddle_hloder .quickpopularaid_inn:before, #popularaid .quickpopularaid_hloder.quickpopularaidright_hloder .quickpopularaid_inn:before {
+	width: 14px;
+	right: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single_right.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+	left: auto;
+}
+.quickpopularaid_hloder2::after, .quickpopularaid_hloder.quickpopularaidmiddle_hloder::after {
+	display: none;
+}
+.home_top3owl_carousel .top3owl-carousel .owl-stage .owl-item.active + .owl-item.active {
+	border-right: none;
+}
+#popularaid .quickpopularaid_hloder.quickpopularaidmiddle_hloder .quickpopularaid_inn, #popularaid .quickpopularaid_hloder.quickpopularaidright_hloder .quickpopularaid_inn {
+	min-height: 50px;
+}
+#topeliquiedsactive .quickpopularaid_inn:after, #topdevicesactive .quickpopularaid_inn:after {
+	width: 14px;
+	left: -14px;
+	top: 5%;
+	height: 90%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+}
+#topeliquiedsactive .quickpopularaid_inn:before, #topdevicesactive .quickpopularaid_inn:before {
+	top: 5%;
+	height: 90%;
+	display: block;
+}
+.featuredproductsactive_carousel .owl-item.active + .owl-item.active .item .item_carousel_holder::before {
+	display: none;
+}
+.newarrivalsactive_carousel:before, .featuredproducts-carousel:before {
+	width: 14px;
+	left: -2px;
+	top: 10%;
+	height: 75%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+}
+.featuredproducts-carousel:before {
+	left: -14px;
+}
+.newarrivalsactive_carousel::after, .featuredproducts-carousel:after {
+	top: 10%;
+	height: 75%;
+}
+.shopscvapelyfestyles_3part_holder img, .bestkeptsecrets_3part_holder img {
+	max-width: 100%;
+}
+.bestkeptsecrets_3part_inn {
+	padding: 15px 10px 30px;
+}
+.loyalltysocialcsvape_hloder {
+	width: 100%;
+	float: none;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvaperight_hloder .loyalltysocialcsvape_inn:before {
+	width: 14px;
+	left: -14px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+}
+.loyalltysocialcsvape_inn {
+	min-height: 50px;
+}
+.mCustomScrollbar.content {
+	height: 510px;
+}
+.specialthanks_2part_holder {
+	width: 100%;
+	float: none;
+}
+.specialthanks_2part_holder:last-child .specialthanks_2part_holder_inn, .specialthanks_2part_holder:first-child .specialthanks_2part_holder_inn {
+	margin: 5px 5px 0;
+}
+.owl-carousel .owl-item img {
+	max-width: 100%;
+	width: auto;
+	display: inline-block;
+}
+.loyalltysocialcsvape_hloder.loyalltysocialcsvapemiddle_hloder {
+	width: 99%;
+}
+.flavor_categories ul li {
+	width: 25%;
+}
+.filter li {
+	width: 25%;
+}
+.flavors_carousel_holder .flavorsitem_holder .flavorsitem_img img {
+	max-width: none;
+}
+.ecig4part_holder, .ecigaccessory_div .ecig4part_holder, .ecigaccessory_div .ecig4part_holder.ecig4part2_holder ~ .ecig4part_holder {
+	width: 100%;
+}
+.ecig4part_holder:after {
+	width: 14px;
+	left: -2px;
+	top: 15%;
+	height: 70%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+	border: none;
+}
+.ecig4part_holder:before {
+	width: 14px;
+	right: -2px;
+	top: 5%;
+	height: 90%;
+	content: "";
+	display: block;
+	background: url(../images/zip_single_right.png) repeat-y;
+	z-index: 9;
+	position: absolute;
+}
+.ecig4part2_holder ~ .ecig4part_holder ~ .ecig4part_holder:after {
+	display: block;
+}
+.ecig4part_holder > div:after, .ecig4part_holder > div:before {
+	display: none;
+}
+.arc_product_div {
+	margin: 0 0 0 225px;
+}
+.ln-letters span, .ln-letters a {
+	font-size: 13px;
+}
+.ln-letters span {
+	display: table-caption;
+	font-size: 18px;
+}
+.arc_product_div .arcproduct_holder_list .flavorsitem_img {
+	width: 200px;
+	float: none;
+	margin: 0 auto;
+}
+.arc_product_div .arcproduct_holder_list .flavorsitem_bottom {
+	margin: 0;
+	position: relative;
+}
+.ratingpart {
+	text-align: left;
+	line-height: 30px;
+}
+.bestsellerpart {
+	padding-bottom: 0;
+}
+.collapsetab .nav-tabs > li > a {
+	font-size: 13px;
+	/*font-weight: bold;
+	padding-left: 0;
+	padding-right: 0;*/
+}
+
+.flavor_categories.similarflavor ul li {
+	width: 33.333%;
+}
+.frequently_bought .item {
+	width: 50%;
+}
+.frequently_bought .item:nth-child(1) .flavorsitem_holder::after {
+	top: auto;
+	bottom: -45px;
+	right: 46%;
+}
+.frequently_bought .item:nth-child(2) .flavorsitem_holder::after {
+	right: auto;
+	left: -22px;
+}
+.frequently_bought .item:nth-child(3) .flavorsitem_holder::after {
+	display: block;
+}
+.frequently_bought .item.item3product {
+	width: 50%;
+	text-align: center;
+}
+.frequently_bought .item.item3product .flavorsitem_holder {
+	top: 100px;
+}
+.filterondiv, .shortondiv {
+	width: 100%;
+	float: none;
+}
+.colfeatured{
+	width:50%;
+}
+
+}
+
+@media screen and (max-width: 900px) {
+.arc_product_div .item {
+	width: 100%;
+}
+}
+
+@media screen and (max-width: 767px) {
+.section_body {
+	padding: 0;
+	position: relative;
+}
+.left_navigation {
+	position: absolute;
+	z-index: 9;
+	left: 0;
+	top: 0;
+	margin: 0;
+}
+.header_bottom_left {
+	float: none;
+}
+.header_bottom_right {
+	margin: 0;
+}
+.top_categories_search {
+	top: -100px;
+}
+.headersticky.fixed .top_categories_search {
+	top: -60px;
+}
+.top_search {
+	padding: 5px 10px 5px 80px;
+}
+.special_promotion {
+	border-radius: 0;
+}
+.header_top {
+	font-size: 12px;
+}
+.header_bottom.clearfix.headersticky.fixed .top_search .form-group-lg .form-control, .header_bottom.clearfix.headersticky.fixed .top_search .btn-group-lg > .btn, .header_bottom.clearfix.headersticky.fixed .top_search .input-group-btn > .btn {
+	padding: 4px 8px;
+	height: 34px;
+	font-size: 14px;
+}
+.logo {
+	padding: 5px 0;
+}
+/*.left_navigation{
+			top:-60px;
+			z-index:99999;
+		}*/
+.footer_holder {
+	margin-left: 0;
+}
+.leftpartarc {
+	clear: both;
+	width: 100%;
+	float: left;
+	margin: 0 0 15px;
+}
+.arcleft_div {
+	width: 40%;
+	float: left;
+}
+.arcright_div {
+	width: 55%;
+	float: right;
+}
+.arc_product_div {
+	margin: 15px 0;
+	width: 100%;
+}
+/*====nav======*/
+.ratingdetails {
+	left: 0;
+}
+.ratingdetails::after, .ratingdetails::before {
+	left: 40px;
+}
+}
+
+@media screen and (max-width: 599px) {
+.header_top {
+	font-size: 10px;
+}
+.top_social_icon {
+	padding-left: 10px;
+}
+.top_social_icon a {
+	margin: 0 5px 0 0;
+}
+.shopscvapelyfestyles_3part_holder, .bestkeptsecrets_3part_holder {
+	width: 100%;
+	float: none;
+}
+.shopscvapelyfestyles_3part .shopscvapelyfestyles_3part_holder:first-child .shopscvapelyfestyles_3part_inn, .shopscvapelyfestyles_3part .shopscvapelyfestyles_3part_holder:first-child .shopscvapelyfestyles_3part_inn .shopscvapelyfestyles_bottom {
+	border-radius: 0;
+}
+.shopscvapelyfestyles_3part .shopscvapelyfestyles_3part_holder:last-child .shopscvapelyfestyles_3part_inn, .shopscvapelyfestyles_3part .shopscvapelyfestyles_3part_holder:last-child .shopscvapelyfestyles_3part_inn .shopscvapelyfestyles_bottom {
+	border-radius: 0 0 15px 15px;
+}
+.bestkeptsecrets_bottom, .bestkeptsecrets_bottom.baby_juice {
+	padding: 0 150px 0 0;
+}
+.quickpopularaid_inn {
+	min-height: 50px;
+}
+.flavor_categories ul li {
+	width: 33.3333%;
+}
+.page-heading-title {
+	font-size: 16px;
+}
+.page-heading-title span {
+	font-size: 20px;
+}
+#informationtext {
+	font-size: 12px;
+	font-weight: 600;
+}
+.productslider, .productdetaild {
+	padding: 0 0 15px;
+	float: none;
+}
+.productdescription, .productfeature {
+	float: none;
+	padding: 0 0 15px;
+	width: 100%;
+}
+.flavor_categories.similarflavor ul li {
+	width: 50%;
+}
+.frequently_bought .item {
+	width: 100%;
+	float: none;
+}
+.frequently_bought .item:nth-child(1) .flavorsitem_holder::after, .frequently_bought .item:nth-child(2) .flavorsitem_holder::after {
+	top: auto;
+	bottom: -28px;
+	left: auto;
+	right: 46%;
+}
+.frequently_bought .item:nth-child(3) .flavorsitem_holder::after {
+	display: none;
+}
+.frequently_bought .item.item3product .flavorsitem_holder {
+	top: 0px;
+}
+.frequently_bought .item.item3product {
+	width: 100%;
+	text-align: center;
+}
+}
