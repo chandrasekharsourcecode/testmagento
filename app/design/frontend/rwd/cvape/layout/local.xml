@@ -4,14 +4,13 @@
         <reference name="head">
             <action method="addItem"><type>skin_css</type><name>css/bootstrap.css</name></action>
             <action method="addItem"><type>skin_css</type><name>css/font-awesome.css</name></action>
-            <action method="addItem"><type>skin_css</type><name>css/jquery.mCustomScrollbar.css</name></action>
-            <action method="addItem"><type>skin_css</type><name>css/listnav.css</name></action>
             <action method="addItem"><type>skin_css</type><name>css/owl.carousel.min.css</name></action>
-            <action method="addItem"><type>skin_css</type><name>css/responsive.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/listnav.css</name></action>
             <action method="addItem"><type>skin_css</type><name>css/scrollbar.css</name></action>
-            <action method="addItem"><type>skin_css</type><name>css/scrollbar.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/jquery.mCustomScrollbar.css</name></action>
             <action method="addItem"><type>skin_css</type><name>css/site.css</name></action>
             <action method="addItem"><type>skin_css</type><name>css/site_navigation.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/responsive.css</name></action>
         </reference>
         
         <reference name="before_body_end">
@@ -19,7 +18,14 @@
         </reference>
         
         <reference name="footer.javascript">
-            
+            <action method="addItem"><type>skin_js</type><name>js/jquery-1.11.3.min.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/bootstrap.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/owl.carousel.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/bootstrap-number-input.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/jquery-asHoverScroll.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/jquery.mCustomScrollbar.concat.min.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/jquery-listnav.js</name><params/></action>
+            <action method="addItem"><type>skin_js</type><name>js/site.js</name><params/></action>
         </reference>
             
     </default>
