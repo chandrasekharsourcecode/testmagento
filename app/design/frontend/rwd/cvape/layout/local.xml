@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+        <reference name="head">
+            <action method="addItem"><type>skin_css</type><name>css/bootstrap.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/font-awesome.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/jquery.mCustomScrollbar.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/listnav.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/owl.carousel.min.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/responsive.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/scrollbar.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/scrollbar.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/site.css</name></action>
+            <action method="addItem"><type>skin_css</type><name>css/site_navigation.css</name></action>
+        </reference>
+        
+        <reference name="before_body_end">
+            <block type="page/html_head" name="footer.javascript" template="page/html/footer/javascript.phtml" />
+        </reference>
+        
+        <reference name="footer.javascript">
+            
+        </reference>
+            
+    </default>
+</layout>
