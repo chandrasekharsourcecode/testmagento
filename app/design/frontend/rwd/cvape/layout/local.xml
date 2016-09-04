@@ -14,6 +14,7 @@
             <action method="addItem"><type>skin_css</type><name>css/responsive.css</name></action>
         </reference>
         
+        <!--Add phtml file to add js files just before body end-->
         <reference name="before_body_end">
             <block type="page/html_head" name="footer.javascript" template="page/html/footer/javascript.phtml" />
         </reference>
@@ -29,6 +30,16 @@
             <action method="addItem"><type>skin_js</type><name>js/jquery-listnav.js</name><params/></action>
             <action method="addItem"><type>skin_js</type><name>js/site.js</name><params/></action>
             <action method="addItem"><type>skin_js</type><name>js/mCustScrollInit.js</name><params/></action>
+        </reference>
+        
+        <!--Create new reference for main navigation-->
+        <reference name="root">
+            <block type="core/text_list" name="main.navigation" as="main.navigation" translate="label">
+                <label>New Reference</label>
+            </block>
+        </reference>
+        <reference name="main.navigation">
+            <block type="core/template" name="main.navigation.block" template="catalog/category/main-navigation.phtml" />
         </reference>
             
     </default>
