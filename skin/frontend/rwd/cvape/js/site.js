@@ -1,3 +1,4 @@
+;(function ($) {
 $(document).ready(function() {
 	// navigation part ====================
 	
@@ -554,3 +555,4 @@ $(window).scroll(function(){
 		}
 	};*/
 	
+})(jQuery);
