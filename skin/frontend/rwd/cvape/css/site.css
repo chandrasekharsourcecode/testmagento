@@ -596,6 +596,7 @@ a:hover, a:focus {
 	width:33.333%;
 	margin-bottom:15px;*/
 	display: table-cell;
+        position: relative;
 }
 .ribbon_div {
 	position: absolute;
@@ -1040,6 +1041,7 @@ a:hover, a:focus {
 	width:33.333%;
 	margin-bottom:15px;*/
 	display: table-cell;
+        position: relative;
 }
 .popular6_hloder ul li .popular6_hloder_inn .popular6_hover_img {
 	position: absolute;
@@ -1089,6 +1091,7 @@ a:hover, a:focus {
 	width:33.333%;
 	margin-bottom:15px;*/
 	display: table-cell;
+        position: relative;
 }
 .aid2_hloder ul li .aid2_hloder_inn .aid2_hover_img {
 	position: absolute;
